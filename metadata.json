@@ -1,5 +1,5 @@
 {
-	"shell-version": ["3.6.1"],
+	"shell-version": ["3.6"],
 	"uuid": "anti-bt-icon@orzechowskid.github.com",
 	"name": "Remove Bluetooth Icon",
 	"description": "removes the Bluetooth icon from GNOME Shell panel 3.6.1+"
